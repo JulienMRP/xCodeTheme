@@ -1,6 +1,6 @@
 # xCodeTools
 
-Some stuff to personalize xCode
+Some stuff to personalize your xCode
 
 # Theme:
 
